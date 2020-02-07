@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1042471174855",
+    "firebase_url": "https://crossfit-pace.firebaseio.com",
+    "project_id": "crossfit-pace",
+    "storage_bucket": "crossfit-pace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042471174855:android:f2b92763b7b792b890b4e2",
+        "android_client_info": {
+          "package_name": "com.box036"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042471174855-45856sh0rna3dr3eo7rc4cfohv5m3qao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.box036",
+            "certificate_hash": "a82de65355771dba4caa6c07f3fea3397ca412b5"
+          }
+        },
+        {
+          "client_id": "1042471174855-7vuqn1ekddsfgcavhrsc9t4pishf3iio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVPpnHQn6ZZo8EGNDo5jkom7IwoJ5iJrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042471174855-7vuqn1ekddsfgcavhrsc9t4pishf3iio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
